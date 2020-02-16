@@ -1,3 +1,4 @@
 node_modules
 *.nsjproj
 *.user
+obj
